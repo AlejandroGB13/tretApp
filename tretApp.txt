@@ -1,0 +1,11 @@
+Coses a fer inicialment:
+	Crear github
+	Crear firebase
+	
+Crear plantilla per a les pàgines
+Sitemap
+
+Tecnologíes:
+	Java i Android Studio
+
+Prototipus de les pàgines
