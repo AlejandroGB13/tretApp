@@ -6,6 +6,6 @@ public class DataBaseTesting {
     public static void main(String[] args) {
         DataBaseFunctions dataBaseFunctions = new DataBaseFunctions();
         //getUsuaris, anadirUsuari i iniciarSessio funcionen
-
+        //ara estic fent els events
     }
 }
